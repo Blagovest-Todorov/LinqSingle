@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.exe
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.dll
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\bin\Debug\netcoreapp3.1\17.LinqSingle.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.dll
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\17.LinqSingle\obj\Debug\netcoreapp3.1\17.LinqSingle.genruntimeconfig.cache
